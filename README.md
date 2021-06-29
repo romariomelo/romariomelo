@@ -6,7 +6,7 @@ Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi proje
 
 [![Linkedin Badge](https://img.shields.io/badge/-Romário%20Melo-0a63bc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romario-melo)](https://www.linkedin.com/in/romario-melo)
 [![Gmail Badge](https://img.shields.io/badge/Website-romariomelo\.com-06BEE1?style=flat-square&logo=web&logoColor=white&link=https://romariomelo.com)](https://romariomelo.com)
-[![Gmail Badge](https://img.shields.io/badge/-contato@romariomelo.com-e34133?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@romariomelo.com)](mailto:contato@romariomelo.com)
+[![Gmail Badge](https://img.shields.io/badge/-romario.melos@gmail.com-e34133?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romario.melos@gmail.com)](mailto:romario.melos@gmail.com)
 
 ## Principais liguagens e ferramentas
 
