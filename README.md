@@ -1,6 +1,6 @@
 # Romário Melo
 
-Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi projetos WEB em PHP, ReactJS, React Native, entre outras liguagens que pode ser visto logo [abaixo](#principais-liguagens-e-ferramentas). Sou graduado em Sistemas de Informação pela UNINASSAU Recife. 
+Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi projetos WEB em PHP, ReactJS, e também aplicativos android com React Native, entre outras linguagens que pode ser visto logo [abaixo](#principais-liguagens-e-ferramentas). Sou graduado em Sistemas de Informação pela UNINASSAU Recife. 
 
 ## Onde você pode me encontrar
 
