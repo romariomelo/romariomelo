@@ -14,7 +14,6 @@ Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi proje
 ![](https://img.shields.io/badge/React%20Native-62dafc?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
