@@ -1,11 +1,11 @@
 # Romário Melo
 
-Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi projetos WEB em PHP, ReactJS, e também aplicativos android com React Native, entre outras linguagens que pode ser visto logo [abaixo](#principais-liguagens-e-ferramentas). Sou graduado em Sistemas de Informação pela UNINASSAU Recife. 
+Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi projetos WEB em PHP, ReactJS, e também aplicativos android com React Native, entre outras linguagens que pode ser visto logo [abaixo](#principais-liguagens-e-ferramentas). Sou graduado em Sistemas de Informação pela UNINASSAU Recife.
 
 ## Onde você pode me encontrar
 
 [![Linkedin Badge](https://img.shields.io/badge/-Romário%20Melo-0a63bc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romario-melo)](https://www.linkedin.com/in/romario-melo)
-[![Gmail Badge](https://img.shields.io/badge/Website-romariomelo\.com-06BEE1?style=flat-square&logo=web&logoColor=white&link=https://romariomelo.com)](https://romariomelo.com)
+[![Gmail Badge](https://img.shields.io/badge/Website-romariomelo.com-06BEE1?style=flat-square&logo=web&logoColor=white&link=https://romariomelo.com)](https://romariomelo.com)
 [![Gmail Badge](https://img.shields.io/badge/-romario.melos@gmail.com-e34133?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romario.melos@gmail.com)](mailto:romario.melos@gmail.com)
 
 ## Principais liguagens e ferramentas
@@ -22,4 +22,5 @@ Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi proje
 ![](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white)
