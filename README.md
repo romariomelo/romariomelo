@@ -1,6 +1,6 @@
 # Romário Melo
 
-Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi projetos WEB em PHP, ReactJS, e também aplicativos android com React Native, entre outras linguagens que pode ser visto logo [abaixo](#principais-liguagens-e-ferramentas). Sou graduado em Sistemas de Informação pela UNINASSAU Recife.
+Oi, eu sou Romário Melo. Sou desenvolvedor há um bom tempo, já desenvolvi projetos WEB em PHP, ReactJS, e também aplicativos Android com React Native, entre outras linguagens que podem ser vistas logo [abaixo](#principais-linguagens-e-ferramentas). Sou graduado em Sistemas de Informação pela UNINASSAU Recife.
 
 ## Onde você pode me encontrar
 
@@ -8,7 +8,7 @@ Oi, eu sou Romário Melo. Sou desenvolvedor a um bom tempo, já desenvolvi proje
 [![Gmail Badge](https://img.shields.io/badge/Website-romariomelo.com-06BEE1?style=flat-square&logo=web&logoColor=white&link=https://romariomelo.com)](https://romariomelo.com)
 [![Gmail Badge](https://img.shields.io/badge/-romario.melos@gmail.com-e34133?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romario.melos@gmail.com)](mailto:romario.melos@gmail.com)
 
-## Principais liguagens e ferramentas
+## Principais linguagens e ferramentas
 
 ![](https://img.shields.io/badge/ReactJS-62dafc?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/React%20Native-62dafc?style=for-the-badge&logo=react&logoColor=black)
