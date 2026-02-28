@@ -1,12 +1,12 @@
 # Olá, eu sou Romário Melo 👋
 
-Sou desenvolvedor de software com experiência em criação de aplicações web. Já desenvolvi projetos WEB utilizando Typescript, NestJS, Express, PHP, Laravel e ReactJS, aplicativos Android com React Native, entre outras tecnologias. Sou graduado em Sistemas de Informação pela UNINASSAU Recife e possuo as certificações AWS: [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/21e63022-0aa3-422e-a127-c3a85ce0848c) e **[AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/f7386533-5dcc-4048-bc62-dfd673d0007e)**.
+Sou desenvolvedor de software com experiência em criação de aplicações web. Já desenvolvi projetos WEB utilizando Typescript, NestJS, Express, PHP, Laravel e ReactJS, aplicativos Android com React Native, entre outras tecnologias. Sou graduado em Sistemas de Informação pela UNINASSAU Recife e possuo as certificações AWS: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/21e63022-0aa3-422e-a127-c3a85ce0848c/public_url) e **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f7386533-5dcc-4048-bc62-dfd673d0007e/public_url)**.
 
 <p>
-  <a href="https://www.credly.com/earner/earned/badge/f7386533-5dcc-4048-bc62-dfd673d0007e">
+  <a href="https://www.credly.com/badges/f7386533-5dcc-4048-bc62-dfd673d0007e/public_url">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect - Associate">
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/21e63022-0aa3-422e-a127-c3a85ce0848c">
+  <a href="https://www.credly.com/badges/21e63022-0aa3-422e-a127-c3a85ce0848c/public_url">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner">
   </a>
 </p>
